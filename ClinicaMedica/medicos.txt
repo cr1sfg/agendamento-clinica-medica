@@ -1,0 +1,13 @@
+nome;crm;especialidade
+Dr. Rodrigo;1123;cardiologia
+Dr. Fraga;1233;urologista
+Dra. Alessandra;2344;dermatologista
+Dr. Maurides;4567;cardiologia
+Dr. Poncio;7456;ortopedia
+Dr. Enzo;9646;ginecologia
+Dra. Ana;1245;obstetricia
+Dra. Cristiana;2764;endocrinologia
+Dr. Thomas;1785;dermatologista
+Dr. Antonio;4747;endocrinologia
+Dr. Vicente;4594;urologista
+Dr. Bitt;3853;cardiologia
