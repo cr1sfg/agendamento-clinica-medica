@@ -77,7 +77,6 @@ Essa estrutura garante separação de responsabilidades e facilita a manutençã
 
 ## 📜 Status
 ✅ Projeto concluído como exercício acadêmico.  
-🚧 Desafio pessoal: integração utilizando **Apache**.  
 
 ---
 
